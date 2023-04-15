@@ -61,7 +61,7 @@ header gets hidden by the navbar*/
   justify-content: center;
 }
 
-#vis2 {
+#vis2, #vis3, #vis4, #vis5 {
   margin: auto;
   width: 70%;
   background-color: rgb(255, 254, 254);
